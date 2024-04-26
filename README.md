@@ -8,5 +8,5 @@ A partir desse ponto, os próximos commits que eu realizar ocorrerão em duas br
 
 A primeira vai conter código escrito nas próprias aulas pelo professor e que vou escrever com o intuito de acompanhar a aula e ir aprendendo. 
 
-Já a segunda branch vai conter código que eu mesmo escreverei para dar originilidade ao meu repositório e para praticar os conceitos aprendidos ao longo do curso.
+Já a segunda branch vai conter código que eu mesmo escreverei para dar originalidade ao meu repositório e para praticar os conceitos aprendidos ao longo do curso.
 
