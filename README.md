@@ -1,5 +1,7 @@
 # SpringBoot-devDojo
-O curso desse repositório faz parte de uma playlist no YouTube com uma série de vídeos a respeito do Spring Boot 2. Para os amantes do Framework ou para aqueles que desejam aprender recomendo bastante! Segue o link da playlist https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H
+O curso desse repositório faz parte de uma playlist no YouTube com uma série de vídeos a respeito do Spring Boot 2. Para os amantes do Framework ou para aqueles que desejam aprender recomendo bastante! 
+
+Link do curso: https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H
 
 # Organização
 O primeiro commit que fiz possui código de algumas aulas e foi feito na branch master. 
